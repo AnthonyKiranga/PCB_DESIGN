@@ -1,0 +1,18 @@
+.AQ3045-01ETG :1 ;LITTELFUSE - AQ3045-01ETG - DIODE, AEC-Q101, ESD PROTECTION, SOD-882
+AQ304501ETG
+*STM D
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN AQ3045-01ETG
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (AQ3045-01ETG)
+~!Mouser Part Number (576-AQ3045-01ETG)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/AQ3045-01ETG?qs=lM4gFlnEeEMEfe%252B5jSw4OA%3D%3D)
+~!Arrow Part Number (AQ3045-01ETG)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aq3045-01etg/littelfuse?region=nac)
+~!Link Datasheet (http://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_aq3045_datasheet.pdf.pdf)
+~!Height (0.42mm)
+~!3D_Model (AQ3045-01ETG)
+AQ3045-01ETG
+1.1!U 2.1!U 

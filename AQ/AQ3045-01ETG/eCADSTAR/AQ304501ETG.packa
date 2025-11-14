@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "AQ3045-01ETG"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-09-18-10:04:42)
+    (mountForm default
+        (footprintRef "AQ304501ETG")
+        (spec "System")
+    )
+)

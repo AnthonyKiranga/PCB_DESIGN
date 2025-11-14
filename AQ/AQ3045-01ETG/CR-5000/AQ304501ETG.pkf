@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "AQ304501ETG"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "AQ304501ETG")
+        (spec "default")
+    )
+)

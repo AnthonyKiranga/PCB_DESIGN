@@ -1,0 +1,124 @@
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\bo' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\bs' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D103
+D11   --> D104
+D12   --> D105
+D13   --> D106
+D14   --> D107
+D15   --> D108
+D16   --> D109
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\drl' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D110
+D11   --> D111
+D12   --> D112
+D13   --> D113
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\ko' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\l2' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D115
+D11   --> D116
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+D17   --> D122
+D18   --> D123
+D19   --> D124
+D20   --> D125
+D21   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\l3' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D127
+D11   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\sk' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D130
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\tl' ----   Wed Sep  3 17:16:00 2025
+
+D11   --> D131
+D12   --> D132
+D13   --> D133
+D14   --> D134
+D15   --> D135
+D16   --> D136
+D17   --> D137
+D18   --> D138
+D19   --> D139
+D20   --> D140
+D21   --> D141
+D22   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\to' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D143
+D11   --> D144
+D12   --> D145
+D13   --> D146
+D14   --> D147
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\Project Outputs for ESP32 With USB C 3rd JLPCB\Production\ok\ts' ----   Wed Sep  3 17:16:00 2025
+
+D10   --> D148
+D11   --> D149
+D12   --> D150
+D13   --> D151
+D14   --> D152
+D15   --> D153
+D16   --> D154
+D17   --> D155
+D18   --> D156
+D19   --> D157
+D20   --> D158
+D21   --> D159
+D22   --> D160
+D23   --> D161
+D24   --> D162
+D25   --> D163
+D26   --> D164
+D27   --> D165
+D32   --> D166
+D33   --> D167
+D34   --> D168
+D35   --> D169
+D36   --> D170
+D37   --> D171
+D38   --> D172
+D39   --> D173
+-----------------------------------------------------------------

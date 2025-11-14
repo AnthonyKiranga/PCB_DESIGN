@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AQ3045_01ETG'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "LITTELFUSE", "AQ3045-01ETG" (!) = "", "AQ304501ETG", "Other", "576-AQ3045-01ETG", "https://www.mouser.co.uk/ProductDetail/Littelfuse/AQ3045-01ETG?qs=lM4gFlnEeEMEfe%252B5jSw4OA%3D%3D", "AQ3045-01ETG", "https://www.arrow.com/en/products/aq3045-01etg/littelfuse?region=nac", "LITTELFUSE - AQ3045-01ETG - DIODE, AEC-Q101, ESD PROTECTION, SOD-882", "http://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_aq3045_datasheet.pdf.pdf", "0.42 mm"
+END_PART
+
+END.
