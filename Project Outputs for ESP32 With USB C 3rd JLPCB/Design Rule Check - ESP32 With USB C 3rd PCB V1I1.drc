@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\Public\Documents\Altium\ESP32 With USB C 3rd JLPCB\ESP32 With USB C 3rd PCB V1I1.PcbDoc
-Date     : 03/09/2025
-Time     : 10:45:02
+PCB File : C:\Users\Public\Documents\Altium\ESP32_With_USB_C_3rd_JLPCB\ESP32 With USB C 3rd PCB V1I1.PcbDoc
+Date     : 28/11/2025
+Time     : 19:48:25
 
 Processing Rule : Clearance Constraint (Gap=6mil) ((WithinRoom('FTDI') or WithinRoom('USBC2') or WithinRoom('USBC1')) And (Layer = 'L1')),(All)
 Rule Violations :0
@@ -87,4 +87,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:07
